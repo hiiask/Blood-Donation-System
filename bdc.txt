@@ -1,0 +1,6 @@
+Hospital in which camp held         Date and Time               Email id of hospital
+Yaswasni Hospital                   12-04-20 and 12:00          yaswasni@gmail.com
+Khub Jio Hospital                   20-05-20 and 8:00           khubjio@gmail.com
+Loot Lenge Hospital                 15-06-20 and 9:00           lootlenge@gmail.com
+Singhania Hospital                  19-07-20 and 14:00          singhania@gmail.com
+Elite Hospital                      25-08-20 and 13:00          elite@gmail.com

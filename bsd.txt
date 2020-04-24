@@ -1,0 +1,7 @@
+Name of donar       Blood Group     Hospital in which donated       Address of donar        Email id of donar
+
+Nihar               B-              Yaswasni Hospital               MG Road,Hubballi        nihar@gmail.com
+Rahul               A+              Khub Jio Hospital               Jayanagar,Hubballi      Rahul@gmail.com
+Ravi                AB+             Loot Lenge Hospital             Bose Road,Hubballi      ravi@gmail.com
+Krishna             B+              Singhania Hospital              Janakpur,Hubballi       krishna@gmail.com
+Ramesh              O+              Eliete Hospital                 Vidyanagar,Hubballi     ramesh@gmail.com
