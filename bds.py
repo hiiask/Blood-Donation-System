@@ -4,7 +4,7 @@ if (a==0):
     print("If you want to register enter 2 otherwise enter any other number.")
     y=int(input())
     if (y==2):
-        x=str(input("Enter your Name to register in our system and please write \\n on end to change the line if you are already registerd please ignore this message.   "))
+        x=str(input("Enter your Name to register in our system and please write \\n on end to change the line.   "))
         f=open("bds.txt", "a")
         f.write(x)
         f.close()
@@ -13,7 +13,7 @@ if (a==0):
         pass
     z=int(input("Press 3 if you want to know about blood donation camps otherwise ignore this message.   "))
     if (z==3):
-        naam=str(input("Enter your name.   "))
+        naam=str(input("Enter Hospital name.   "))
         f=open("bdc.txt","r")
         out=[i for i in f if naam in i]
         print(str(out))
